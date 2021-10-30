@@ -12,9 +12,9 @@ export function Intro() {
                 <Image
                     src="/assets/inovamazonpi-logo.png"
                 />
-                <Text fontSize="2xl">
+                {/* <Text fontSize="2xl">
                     Descubra todos os passos para registrar sua patente 
-                </Text>
+                </Text> */}
             </VStack>
         </Center>
     )

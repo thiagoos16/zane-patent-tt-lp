@@ -27,14 +27,14 @@ export function GeneralOrientations() {
                         fontWeight="bold" 
                         textAlign="center"
                         >
-                        O InovAmazonPI é uma plataforma totalmente gratuita que tem 
-                        como objetivo demonstrar por meio de simulações e estudo dirigido, 
-                        o passo a passo para depósito de pedido de patente.
+                        O InovAmazonTT é uma plataforma totalmente gratuita que tem como 
+                        objetivo orientar de maneira clara, um passo a passo para o processo 
+                        de averbação e/ou registro do contrato de transferência de tecnologia.
                     </Text> 
                 </Box>
 
                 <Box>
-                    <Seemore 
+                    <Text 
                         fontSize="2xl" 
                         color="green.800" 
                         textAlign="center" 
@@ -42,10 +42,9 @@ export function GeneralOrientations() {
                         colorRD="green.900"
                         fontSizeRD="1xl"
                         >
-                        O produto InovAmazonPI é fruto de um trabalho de Mestrado 
-                        em Propriedade Intelectual e Transferência de Tecnologia para Inovação. 
-                        Parceria firmada entre a Rede PROFNIT e a Universidade do Estado do Amazonas (UEA)
-                    </Seemore>
+                        O produto InovAmazonTT é fruto de trabalho de doutorado 
+                        em Biotecnologia da Universidade Federal do Amazonas
+                    </Text>
                 </Box>
 
                 <Box>

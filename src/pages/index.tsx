@@ -18,10 +18,10 @@ export default function Home() {
       <RequisitesOrientations />
       <Divider />
       <StepByStepPrimer />
-      <Divider />
+      {/* <Divider />
       <Simulation />
       <Divider />
-      <ContatcUs />
+      <ContatcUs /> */}
     </Box>
   )
 }
